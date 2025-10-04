@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Chicken/Documents/Projects/Go-Practice/Product-API/**)",
+      "Read(//c/Users/Chicken/Documents/Projects/Go-Practice/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
